@@ -1,5 +1,7 @@
 package application;
 
+import java.awt.Color;
+
 import chess.ChessPiece;
 
 public class UI {
@@ -23,4 +25,7 @@ public class UI {
         }
         System.out.println(' ');
     }
+
+    
+
 }
