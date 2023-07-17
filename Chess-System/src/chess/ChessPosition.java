@@ -32,7 +32,7 @@ public class ChessPosition {
 
     @Override
     public String toString() {
-        return "" + Column + row;
+        return "" + column + row;
     }
     
 }
